@@ -1,0 +1,5 @@
+nice-job:running-on-schedule:
+  only:
+    - schedules
+  script:
+    - echo "do nothing"
