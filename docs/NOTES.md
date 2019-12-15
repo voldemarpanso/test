@@ -1,3 +1,8 @@
+---
+title: Notes
+layout: template
+filename: NOTES.md
+--- 
 # Notes
 
 1. Note1
